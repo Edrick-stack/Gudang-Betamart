@@ -1,0 +1,40 @@
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\Gudang Betamart.exe
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\Gudang Betamart.deps.json
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\Gudang Betamart.runtimeconfig.json
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\Gudang Betamart.runtimeconfig.dev.json
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\Gudang Betamart.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\Gudang Betamart.pdb
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\obj\Debug\netcoreapp3.1\Gudang Betamart.csproj.AssemblyReference.cache
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\obj\Debug\netcoreapp3.1\Kasir_Betamart.FormHome.resources
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\obj\Debug\netcoreapp3.1\Kasir_Betamart.FormLogin.resources
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\obj\Debug\netcoreapp3.1\Kasir_Betamart.Properties.Resources.resources
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\obj\Debug\netcoreapp3.1\Gudang Betamart.csproj.GenerateResource.cache
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\obj\Debug\netcoreapp3.1\Gudang Betamart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\obj\Debug\netcoreapp3.1\Gudang Betamart.AssemblyInfoInputs.cache
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\obj\Debug\netcoreapp3.1\Gudang Betamart.AssemblyInfo.cs
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\obj\Debug\netcoreapp3.1\Gudang Betamart.csproj.CoreCompileInputs.cache
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\obj\Debug\netcoreapp3.1\Gudang Betamart.dll
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\obj\Debug\netcoreapp3.1\Gudang Betamart.pdb
+D:\Sekolah\Kelas XII RPL 4\Bootcamp\Kasir Betamart\obj\Debug\netcoreapp3.1\Gudang Betamart.genruntimeconfig.cache
